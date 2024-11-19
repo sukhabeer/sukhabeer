@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sukhabeer singh
+- 👋 Hi, I’m @Sukhabeer Singh
 - 👀 I’m interested in data analyst
 - 🌱 I’m currently learning power BI, python
 - 💞️ I’m looking to collaborate on ...
